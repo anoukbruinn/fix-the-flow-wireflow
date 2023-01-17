@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Fix-the-flow-wirflow
+# Fix-the-flow-wireflow
 
 ## Gebruiker
 De gebruikers zijn de mensen die stekjes willen ophalen.
